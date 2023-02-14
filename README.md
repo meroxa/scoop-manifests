@@ -1,0 +1,1 @@
+# scoop_manifests
