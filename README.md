@@ -14,7 +14,10 @@ Download Scoop onto your Windows machine, to do so, run following steps:
 How do I install these manifests? 
 ---------------------------------
 
-In PowerShell, run `scoop install https://github.com/meroxa/scoop_manifests/meroxa/meroxa.json` , this should install Meroxa CLI on your Windows and you will be ready to use it! 
+In PowerShell run the following commands:
+
+1. `scoop bucket add meroxa https://github.com/meroxa/scoop_manifests`
+2. `scoop install meroxa`
 
 
 How do I update my CLI? 
