@@ -1,16 +1,16 @@
 {
-    "version": "2.16.0",
+    "version": "2.15.0",
     "description": "A Meroxa CLI util to deploy and run data applications.",
     "homepage": "https://github.com/meroxa/cli",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meroxa/cli/releases/download/v2.16.0/meroxa_2.16.0_windows_amd64.tar.gz",
-            "hash": "e5732940d6edf2926bd40acd6944cb6758922ca50f1a0b801b183e122dd5be31"
+            "url": "https://github.com/meroxa/cli/releases/download/v2.15.0/meroxa_2.15.0_windows_amd64.tar.gz",
+            "hash": "0ca6d888c22454f55767e37ba8c3b5f42af6d8b9ac27db447699a9c0cde9149a"
         },
         "arm64": {
-            "url": "https://github.com/meroxa/cli/releases/download/v2.16.0/meroxa_2.16.0_windows_arm64.tar.gz",
-            "hash": "ad72a62dab20019bc5286810632daa47913f5faacb58a980bb4238330f684485"
+            "url": "https://github.com/meroxa/cli/releases/download/v2.15.0/meroxa_2.15.0_windows_arm64.tar.gz",
+            "hash": "73dea7f1bb0901ed43f7824acd8b7290c3badc669a5b36496edfd1d5e7b9beab"
         }
     },
     "bin": "meroxa.exe",
