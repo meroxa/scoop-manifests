@@ -16,7 +16,7 @@ How do I install these manifests?
 
 In PowerShell run the following commands:
 
-1. `scoop bucket add meroxa https://github.com/meroxa/scoop_manifests`
+1. `scoop bucket add meroxa https://github.com/meroxa/scoop-manifests`
 2. `scoop install meroxa`
 
 
