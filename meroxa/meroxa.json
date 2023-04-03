@@ -1,19 +1,19 @@
 {
-    "version": "2.17.0",
+    "version": "2.18.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/meroxa/cli/releases/download/v2.17.0/meroxa_2.17.0_windows_386.tar.gz",
+            "url": "https://github.com/meroxa/cli/releases/download/v2.18.0/meroxa_2.18.0_windows_386.tar.gz",
             "bin": [
                 "meroxa.exe"
             ],
-            "hash": "2bd82e587cccfe5eb285b2d572ec50a7c9007e8a83f983304493b2a8f57c5b68"
+            "hash": "ba1979c8c5b245124712e09f6334f578ee55202e9fc60d52a7693fdafca7c32b"
         },
         "64bit": {
-            "url": "https://github.com/meroxa/cli/releases/download/v2.17.0/meroxa_2.17.0_windows_amd64.tar.gz",
+            "url": "https://github.com/meroxa/cli/releases/download/v2.18.0/meroxa_2.18.0_windows_amd64.tar.gz",
             "bin": [
                 "meroxa.exe"
             ],
-            "hash": "dea1f6c7719f39448afe7c12c8f6c228afc8217d596838ba429af988e86935ca"
+            "hash": "15d3c1843ec55f5db043b921cccd39fb21748d37dfda76ba980d3e9cac80d158"
         }
     },
     "homepage": "https://meroxa.io",
